@@ -1,8 +1,6 @@
 ## Escenarios: 
 
 <span style="color:red">Este texto está en rojo</span>
-<span style="color:#ADD8E6">Este texto está en azul claro</span>
-
 
 ### Escenario 1: 
 La coordinadora llega a su trabajo en la clínica. Se acuerda que le queda poco tiempo para entregar un documento, lo cual la preocupa y hace que 
