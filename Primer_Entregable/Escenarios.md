@@ -1,10 +1,10 @@
 ## Escenarios: 
 
-| Nombre     | Apellido   | Edad |
-|------------|------------|------|
-| Juan       | Pérez      | 25   |
-| Ana        | Gómez      | 32   |
-| Pedro      | Rodríguez  | 45   |
+|Formato de los Escenarios|
+|------------|
+| <span style="color:red">Contexto</span> |
+| Ana        |
+| Pedro      |
 
 
 ### Escenario 1: 
