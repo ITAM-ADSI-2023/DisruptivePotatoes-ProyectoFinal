@@ -1,10 +1,8 @@
 ## Escenarios: 
 
-|Formato de los Escenarios|
-|------------|
-| <span style="color:red">Contexto</span> |
-| Ana        |
-| Pedro      |
+| Columna 1 | Columna 2                    | Columna 3 |
+| --------- | ----------------------------| ----------|
+| Texto 1   | <span style = "color:red">Texto 2</span>  | Texto 3 |
 
 
 ### Escenario 1: 
