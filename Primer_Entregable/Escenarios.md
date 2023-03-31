@@ -1,11 +1,6 @@
 ## Escenarios: 
 
-<span style="color:red">Este texto aparecerá en rojo</span>
-
-<pre><code style="background-color:yellow">
-Este bloque de código tendrá fondo amarillo
-</code></pre>
-
+<span style="color:red">Este texto está en rojo</span>
 
 
 ### Escenario 1: 
