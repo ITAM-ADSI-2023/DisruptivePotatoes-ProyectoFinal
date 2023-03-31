@@ -1,6 +1,11 @@
 ## Escenarios: 
 
-<span style="color:red">Este texto está en rojo</span>
+| Nombre     | Apellido   | Edad |
+|------------|------------|------|
+| Juan       | Pérez      | 25   |
+| Ana        | Gómez      | 32   |
+| Pedro      | Rodríguez  | 45   |
+
 
 ### Escenario 1: 
 La coordinadora llega a su trabajo en la clínica. Se acuerda que le queda poco tiempo para entregar un documento, lo cual la preocupa y hace que 
