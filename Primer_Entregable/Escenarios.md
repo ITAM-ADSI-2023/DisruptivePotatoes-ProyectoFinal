@@ -2,6 +2,11 @@
 
 <span style="color:red">Este texto aparecerá en rojo</span>
 
+<pre><code style="background-color:yellow">
+Este bloque de código tendrá fondo amarillo
+</code></pre>
+
+
 
 ### Escenario 1: 
 La coordinadora llega a su trabajo en la clínica. Se acuerda que le queda poco tiempo para entregar un documento, lo cual la preocupa y hace que 
