@@ -19,6 +19,6 @@ Se da cuenta que se está tardando mucho tiempo en anotar todos sus pendientes, 
 Pone su cuenta y contraseña y al entrar puede ver los pendientes más urgentes y así sabe por donde empezar su día.
 Comienza a trabajar y se siente feliz por que ya está al pendiente de todo lo que tiene que hacer.
 
-### Escenario 1:
+### Escenario 4:
 La coordinadora está en su oficina en la Clínica de Litigio Penal del ITAM. Acaba de recibir una llamada de uno de los estudiantes de la clínica, informándole que un usuario ha llegado a la clínica buscando ayuda para un caso de violación de derechos humanos. El estudiante le informa a la coordinadora sobre la llegada del usuario.
 
