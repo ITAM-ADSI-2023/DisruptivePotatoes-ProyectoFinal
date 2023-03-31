@@ -1,6 +1,7 @@
 # DisruptivePotatoes-ProyectoFinal
 
-### Integrantes:
+
+### Miembros del equipo :
 - Raul Isaac Resendiz Zayas 190629
 - Camila Martínez Ramírez 197784
 - Miguel Ángel Diaz 183584
