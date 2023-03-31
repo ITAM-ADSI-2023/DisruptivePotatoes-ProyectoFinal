@@ -1,10 +1,5 @@
 ## Escenarios: 
 
-| Columna 1 | Columna 2                    | Columna 3 |
-| --------- | ----------------------------| ----------|
-| Texto 1   | <span style = "color:red">Texto 2</span>  | Texto 3 |
-
-
 ### Escenario 1: 
 La coordinadora llega a su trabajo en la clínica. Se acuerda que le queda poco tiempo para entregar un documento, lo cual la preocupa y hace que 
 quiera revisar el estado de este. Abre la aplicación que desarrollamos y busca el caso al que pertenece el documento para poder acceder a la información
@@ -23,3 +18,7 @@ Mariana Ramirez, la titular de la clínica, llega al trabajo a las 9:00 para com
 Se da cuenta que se está tardando mucho tiempo en anotar todos sus pendientes, entonces abre la aplicación que desarrollamos.
 Pone su cuenta y contraseña y al entrar puede ver los pendientes más urgentes y así sabe por donde empezar su día.
 Comienza a trabajar y se siente feliz por que ya está al pendiente de todo lo que tiene que hacer.
+
+### Escenario 1:
+La coordinadora está en su oficina en la Clínica de Litigio Penal del ITAM. Acaba de recibir una llamada de uno de los estudiantes de la clínica, informándole que un usuario ha llegado a la clínica buscando ayuda para un caso de violación de derechos humanos. El estudiante le informa a la coordinadora sobre la llegada del usuario.
+
