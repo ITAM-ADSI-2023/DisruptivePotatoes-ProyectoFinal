@@ -1,5 +1,8 @@
 ## Escenarios: 
 
+<span style="color:red">Este texto aparecerá en rojo</span>
+
+
 ### Escenario 1: 
 La coordinadora llega a su trabajo en la clínica. Se acuerda que le queda poco tiempo para entregar un documento, lo cual la preocupa y hace que 
 quiera revisar el estado de este. Abre la aplicación que desarrollamos y busca el caso al que pertenece el documento para poder acceder a la información
