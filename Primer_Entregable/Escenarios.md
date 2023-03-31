@@ -1,6 +1,9 @@
 ## Escenarios: 
-
-Este es un texto en color rojo: <span style="color: red;">Texto rojo</span>.
+<span style="color: red;">Contexto</span>.
+<span style="color: blue;">Trigger</span>.
+<span style="color: green;">Action</span>.
+<span style="color: orange;">Inputs</span>.
+<span style="color: purple;">Expectativas</span>.
 
 ### Escenario 1:
 La coordinadora está en su oficina en la Clínica de Litigio Penal del ITAM. Acaba de recibir una llamada de uno de los estudiantes de la clínica, informándole que un usuario ha llegado a la clínica buscando ayuda para un caso de violación de derechos humanos. El estudiante le informa a la coordinadora sobre la llegada del usuario. La coordinadora le pregunta al estudiante sobre los detalles del caso, incluyendo el nombre del usuario, el tipo de caso y cualquier información relevante. Luego, se asegura de que el estudiante haya registrado el caso en la aplicación de la clínica para poder hacer seguimiento al caso. La coordinadora necesita información detallada sobre el caso, incluyendo el nombre del usuario, el tipo de caso y cualquier información relevante. También necesita asegurarse de que el estudiante haya registrado el caso en la aplicación de la clínica. Una vez que la coordinadora tiene toda la información necesaria y el caso está registrado en la aplicación de la clínica, ella puede comenzar a trabajar en el caso. Además, puede asignar el caso a uno de los alumnos de la clínica para que comience a trabajar en él. Al tener todo el caso registrado en la aplicación, la coordinadora puede hacer un seguimiento constante del progreso del caso y asegurarse de que se esté manejando adecuadamente.
