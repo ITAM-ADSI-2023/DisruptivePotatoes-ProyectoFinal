@@ -1,6 +1,7 @@
 ## Escenarios: 
 
 <span style="color:red">Este texto está en rojo</span>
+<span style="color:#ADD8E6">Este texto está en azul claro</span>
 
 
 ### Escenario 1: 
